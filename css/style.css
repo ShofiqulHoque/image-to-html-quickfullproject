@@ -166,14 +166,18 @@ padding: 0;
 /*service end*/
 /*footer start*/
 .footer{
-	margin: 60px 0;
+	margin: 60px 0 0 0;
 	background-color:#008AFF;
 	padding: 14px 0;
 }
 .f_text{
 	margin: 0;
 	text-align: center;
-	color: #FFFFFF;
+	color: #0F2678;
 	font-size: 13px;
+}
+.f_text span{
+	color:#FFFFFF;
+	font-style: italic;
 }
 /*footer end*/
